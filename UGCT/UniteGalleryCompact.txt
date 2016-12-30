@@ -1,1 +1,4 @@
-
+Based on PHP class for Typesetter CMS - 'Unite Gallery' plugin, Author: J. Krausz, Date: 2016-12-28, Version 1.0
+All configuration options can now be edited directly in the file UniteGallery.php.
+UG is the theme chosen Compact, which supports zoom, has been tested at a resolution of 480px.
+The skin was chosen "alexis" with some changes in alexis.css file.
